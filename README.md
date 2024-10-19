@@ -57,8 +57,5 @@ while True:
 ```
 ## OUPUT
 ![output](https://github.com/user-attachments/assets/c044703a-f9e0-47e1-b383-ed0967321a7c)
-
 ## RESULT
 Thus, the python programming for creating File Transfer usinf TCP Sockets Links was succesfully created and executed.
-Thus, the python program for creating File Transfer using TCP Sockets Links was 
-successfully created and executed.
